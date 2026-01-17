@@ -18,3 +18,5 @@ Exiftool – чтение EXIF-данных из картинок или https:/
 2. https://aistudio.google.com/prompts/new_chat
 
 https://www.google.ru/maps – очень удобно ковырять всякие локации.
+
+https://dns.google
